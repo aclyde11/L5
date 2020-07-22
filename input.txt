@@ -1,0 +1,2 @@
+STOCK carrot 100 1
+PURCHASE carrot 1 Samantha 123-321-123
